@@ -14,6 +14,13 @@ Firstly, he will count:
 - General Purchasing Analysis
 
 Next, he will delve into the purchasing analysis by incorporating the pattern of gender demographics and age demographics
-- Percentage and Count of Male Players
-- Percentage and Count of Female Players
-- Percentage and Count of Other / Non-Disclosed
+- Gender Demographics: 
+  - Percentage and Count of Male Players
+  - Percentage and Count of Female Players
+  - Percentage and Count of Other / Non-Disclosed
+  - Purchasing Analysis (Gender)
+- Age Demographics: 
+  - Purchase Count
+  - Average Purchase Price
+  - Total Purchase Value
+  - Average Purchase Total per Person by Age Group
