@@ -24,3 +24,5 @@ Next, he will delve into the purchasing analysis by incorporating the pattern of
   - Average Purchase Price
   - Total Purchase Value
   - Average Purchase Total per Person by Age Group
+
+Lastly, he will Identify the the top 5 spenders in the game by total purchase value AND the 5 most profitable items by total purchase value. 
