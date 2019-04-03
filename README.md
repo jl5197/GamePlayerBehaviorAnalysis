@@ -10,16 +10,16 @@ This week, his is delegated to analyze the data for Rising Haven's most recent f
 Eventually, Nicholas will generate a performance report that breaks down the game's purchasing data into meaningful insights.
 
 Firstly, he will count: 
-- The Total Number of Players
-- General Purchasing Analysis
+- #### The Total Number of Players
+- #### General Purchasing Analysis
 
 Next, he will delve into the purchasing analysis by incorporating the pattern of gender demographics and age demographics
-- Gender Demographics: 
+- #### Gender Demographics: 
   - Percentage and Count of Male Players
   - Percentage and Count of Female Players
   - Percentage and Count of Other / Non-Disclosed
   - Purchasing Analysis (Gender)
-- Age Demographics: 
+- #### Age Demographics: 
   - Purchase Count
   - Average Purchase Price
   - Total Purchase Value
